@@ -1,5 +1,5 @@
 package modules
 
 func SayHello() string {
-	return "Indonesia Raya"
+	return "Indonesia Raya Jaya"
 }
