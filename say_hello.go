@@ -1,5 +1,5 @@
 package modules
 
-func SayHello() string {
-	return "Indonesia Raya Jaya"
+func SayHello(name string) string {
+	return "Indonesia Raya Jaya, wahai generasi penerus! " + name
 }
